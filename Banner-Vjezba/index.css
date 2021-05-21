@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body h1, h2, h3, h4, ul, li, p{
+    margin: 0;
+    padding: 0;
+}
+.DivContainer{
+   text-align: center;
+   width: 500px;
+   height: 300px;
+   background-image: url(./images/OIP.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+.wrap{
+    text-align: center;
+    margin: 50px -410px;
+    width: 800px;
+    color: rgb(230, 233, 51);
+    
+ }
+ .wrap p{
+    height: 30px;
+ }
+.DivContainer h1, h2, h3{
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.DivContainer h1{
+    padding-top: 10px;
+    font-size: 18px;
+   }
+   .DivContainer h2{
+    padding-top: 30px;
+    font-size: 20px;
+   }
+   .DivContainer h3{
+    padding-top: 20px;
+    font-size: 15px;
+   }
+.gridCol1  {
+    border: solid 2px rgb(199, 232, 245);
+    width: 8%;
+    align-items: center;
+    float: right;
+    margin-left: 10px;
+    
+
+}
+.gridCol2  {
+    border: solid 2px rgb(199, 232, 245);
+    width: 8%;
+    align-items: center;
+    float: right;
+    margin-left: 10px;
+
+}
+.gridCol3  {
+    border: solid 2px rgb(199, 232, 245);
+    width:8%;
+    align-items: center;
+    float: right;
+    margin-left: 10px;
+
+}
+.gridCol4  {
+    border: solid 2px rgb(199, 232, 245);
+    width: 8%;
+    align-items: center;
+    float: right;
+    margin-left: 10px;
+
+}
+h2{
+  color:rgb(231, 247, 0) ;  
+}
+.broj {
+    font-size: 30px;
+}
