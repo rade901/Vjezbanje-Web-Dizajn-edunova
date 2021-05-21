@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+}
+th{
+    background-image: url(./Celija-gore-pozadina.jpg);
+    color: white;
+    width: 65px;
+    height: 25px;
+    font-size: 14px;
+}
+td{
+    font-family: 'Times New Roman', Times, serif;
+    height: 25px;
+    font-size: 13px;
+}
+.zelena-boja{
+    background-color:#7EBB42;
+}
+tr{
+    background-color: rgb(212, 211, 211);
+}
+
+
+
+
