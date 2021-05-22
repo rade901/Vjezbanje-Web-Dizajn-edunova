@@ -1,0 +1,77 @@
+body{
+    margin:50px 50px;
+    padding: 0;
+    background-color: black;
+    background-image: url(https://cdn.wallpapersafari.com/52/47/H4Bh93.jpg);
+    color: white;
+    text-align: center;
+}
+/*CSS stilovi za slike*/
+.slika{
+    display: flex;
+    justify-content: center;
+    min-width: 50px;
+}
+/*CSS stilovi za prvi h1 naslov*/
+h1{
+    text-transform: inherit;
+    border: solid white 1px;
+    height: 80px;
+    color: black;
+    text-shadow: blanchedalmond 2px 2px 5px;
+}
+/*CSS stilovi za div container2*/
+.container2{
+    border: solid black 2px;
+    background-color: white;
+    background-image: url(https://industrial-maid.com/wp-content/uploads/2018/07/Dust-Cloud-On-White-Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+/*CSS stilovi za footer*/
+#dolje{
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    border: white solid 1px;
+    background-color: rgb(163, 55, 36);
+    font-size: 20px;
+}
+/*CSS stilovi za h3 text zutog kontejnera*/
+#drugi h3{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: underline;
+}
+/*CSS stilovi za paragraf zutog kontejnera*/
+#drugi p{
+    font-style: italic;
+    color:rgb(0, 0, 0) ;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+/*CSS stil za zutu pozadinu naslova*/
+.srednjinaslov{
+    background-color: rgb(165, 118, 57);
+}
+/*CSS stil za sivu pozadinu gornjeg naslova*/
+.gornjinaslov{
+background-color: silver;
+}
+/*CSS stilovi za crveni kontejner naslov italic text i boja pozadine*/
+#drugi h3, p{
+    font-style: italic;
+    color:rgb(0, 0, 0) ;
+    font-size: 18px;
+    font-weight: bold; 
+}
+/*CSS stil za h3 text crvenog kontejnera*/
+#treci h3{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 18px;
+}
